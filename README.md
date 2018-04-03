@@ -37,25 +37,7 @@ A simple fact checker. (NLP S6)
 7. The dataset is available in sopex/test.txt
 
 
-
-
-
-
-
-
-
-
-
-
-    ### Source
-
-        $ python setup.py install
-
-    ### PyPI
-
-        $ easy_install sopex
-
-    ## Usage
+    ## Usage of Sopex
 
     ### Help
 
